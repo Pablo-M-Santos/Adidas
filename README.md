@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Furius-Burguer
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -32,4 +33,16 @@ npm run build
 
 ```sh
 npm run test:unit
+=======
+# Furius-Burguer-com-Vue
+Estou desenvolvendo um sistema com Vue
+
+
+## Instalação
+
+Para criar um novo projeto Vue usando `create-vue`, basta executar o seguinte comando em seu terminal:
+
+```sh
+npm create vue@latest
+>>>>>>> d18d2729e91611ddde6dcfeb9547d59378f0bfb9
 ```
